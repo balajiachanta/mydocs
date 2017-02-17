@@ -75,3 +75,8 @@ public class SpringBootSample {
 
 
 
+http://localhost:9090/rest/test
+
+{
+  "msg": "hello world"
+}
