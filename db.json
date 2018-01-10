@@ -1,4 +1,1 @@
-{
-  "username":"balu",
-  "password": "userpass"
-}
+{"id":1,"username":"balu","password":"$2a$10$CiphpJ.twhPiuaOpnNSKY.ZO5aw2piR9B8gJg3WHj0LyRxNxoYjpq","passwordConfirm":null,"enabled":true,"roles":[],"authToken":"eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIxIiwic3ViIjoiYmFsdSIsInJvbGVzIjoidXNlciIsImV4cCI6MTUxNjQ3NTUwMn0.uhHA01663HS3B3GsDak3qc9030ag2Fke_OA1lgzdkmXXR6HMpeYt2sY-_KBQ5ds4kUcf8JCcVMgx5WZTdV8i3g","refreshToken":null}
